@@ -115,4 +115,17 @@ int main()
 ```
 
 ## Output - 
+
 ### A - 
+<img width="685" alt="Screenshot 2024-08-26 at 11 07 51 PM" src="https://github.com/user-attachments/assets/c61d47a9-0429-4f76-88d5-255537ddd875">
+
+### B - 
+<img width="674" alt="Screenshot 2024-08-26 at 11 29 39 PM" src="https://github.com/user-attachments/assets/962d3ef3-5863-4d61-bf6c-ce2cfbd37b5e">
+
+### C - 
+<img width="683" alt="Screenshot 2024-08-27 at 12 37 12 AM" src="https://github.com/user-attachments/assets/9e31722a-a451-4fbc-b13d-5f244bf42917">
+
+## Conclusion - 
+Pointers are symbolic representations of addresses. They enable programs to simulate call-by-reference as well as to create 
+and manipulate dynamic data structures. 
+Iterating over elements in arrays or other data structures is one of the main use of pointers. 
